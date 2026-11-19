@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/docs/">
+    <File Path="docs/study-guide.md" />
+    <File Path="docs/study-guide.es.md" />
+    <File Path="docs/senior-concepts.es.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/LabAspNetCoreWebApi.Api/LabAspNetCoreWebApi.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/LabAspNetCoreWebApi.Tests/LabAspNetCoreWebApi.Tests.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,41 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+[Oo]ut/
+artifacts/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Test and coverage
+TestResults/
+[Cc]overage/
+*.coverage
+*.coveragexml
+
+# NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+project.lock.json
+
+# Local secrets (do not ignore appsettings.json: the lab key is a public placeholder)
+secrets.json
+appsettings.*.local.json
+/docs/*
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# docs/ is teaching content and must be committed
